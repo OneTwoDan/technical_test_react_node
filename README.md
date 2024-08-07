@@ -62,4 +62,5 @@ You should see the following message in the console:<br>
 
 4. Open the indicated route in your browser to see the application:
 
-    ![image](https://github.com/user-attachments/assets/597af348-004a-4a8d-be66-4da32bbd6e26)
+    ![image](https://github.com/user-attachments/assets/b8aedd1a-d934-44da-9937-ab6d59cae80b)
+
