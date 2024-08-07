@@ -2,6 +2,9 @@
 
 La primer parte de la prueba tiene como objetivo evaluar tus conocimientos y competencias con la tecnologíad NodeJS y Mongodb.
 
+![image](https://github.com/user-attachments/assets/c7385f3f-7b8d-44d8-b4ff-449ac15c084a)
+
+
 ## Descripción de la tarea
 
 La siguiente tarea consiste en cargar y almacenar los datos de un archivo en una base de datos local con Mongodb y permitir consumir la información almacenada, para lograr estos tienes que: 
